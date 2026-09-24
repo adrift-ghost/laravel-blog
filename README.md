@@ -1,6 +1,6 @@
 # Laravel Blog (`vitebox/laravel-blog`)
 
-A drop-in blog management backend for any Laravel 10–13 application. You get:
+A drop-in blog management backend for any Laravel 12 or 13 application (PHP 8.2+). You get:
 
 - An **admin panel** with role-based access (Admin, Publisher, Reviewer, Writer)
 - A full **editorial workflow**: draft → review → approve → publish or schedule
